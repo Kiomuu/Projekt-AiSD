@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1737587435 source:c:\users\kiomu\desktop\projekt\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdexcept>
+	<ctime>
+
